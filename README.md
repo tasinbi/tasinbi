@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://www.facebook.com/photo?fbid=122202287030557793&set=a.122113074110557793" />
-</p>
-
-# Hi 👋 I'm Tasin Ahmed
+# Hi, I'm Tasin Ahmed
 
 🚀 MERN Stack & Frontend Developer | Next.js & TypeScript Enthusiast  
 🧩 WordPress Custom Design Developer  
@@ -18,7 +14,7 @@ Alongside development, I help brands grow online through **SEO strategy** and **
 
 ---
 
-## 🚀 What I Do
+### 🚀 What I Do
 - Build high-performance web applications using **MERN Stack**
 - Develop scalable apps with **Next.js & TypeScript**
 - Design and develop **custom WordPress themes & layouts**
@@ -43,7 +39,7 @@ Alongside development, I help brands grow online through **SEO strategy** and **
 
 ---
 
-## 📌 Tools & Skills
+### 📌 Tools & Skills
 - Git & GitHub
 - REST APIs
 - Responsive & Mobile-first Design
@@ -52,7 +48,7 @@ Alongside development, I help brands grow online through **SEO strategy** and **
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 - 📧 Email: biic.web1@gmail.com  
 - 🌐 Portfolio: https://jubayer-portfolio.vercel.app/  
 - 📘 Facebook: https://www.facebook.com/jubayerahamed82  
